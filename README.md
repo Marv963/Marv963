@@ -6,7 +6,7 @@
 
 ---
 
-🔭 Currently working on: [speakki.de](https://speakki.de) & [tradebys.com](https://tradebys.com)  
+🔭 Currently working on: [speakki.de](https://speakki.de) 
 🎯 Pursuing **OSCP** certification  
 💻 Primarily working in my **own Gitea environment**  
 🔐 Passionate about **DevOps** & **Pentesting**
